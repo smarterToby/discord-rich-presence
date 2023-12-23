@@ -1,0 +1,52 @@
+{
+  "clientId": "CLIENT_ID",
+  "rich_presence": {
+    "details": {
+      "text": "Project: Discord Rich Presence",
+      "show": true
+    },
+    "state": {
+      "text": "In Development",
+      "show": true
+    },
+    "assets": {
+      "largeImage": {
+        "text": "Project Logo",
+        "key": "project_logo",
+        "show": true
+      },
+      "smallImage": {
+        "text": "Developer Icon",
+        "key": "developer_icon",
+        "show": true
+      }
+    },
+    "buttons": {
+      "primary": {
+        "labelText": "GitHub",
+        "redirectUrl": "https://github.com/smartertoby/discord-rich-presence",
+        "show": true
+      },
+      "secondary": {
+        "labelText": "Learn More",
+        "redirectUrl": "",
+        "show": false
+      }
+    },
+    "timestamps": {
+      "mode": "elapsed",
+      "autoStart": true,
+      "startTimestamp": 1,
+      "endTimestamp": 1703350446,
+      "show": true
+    },
+    "party": {
+      "id": "123123",
+      "size": {
+        "currentSize": 1,
+        "maxSize": 2
+      },
+      "show": false
+    }
+  }
+}

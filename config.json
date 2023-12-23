@@ -1,0 +1,52 @@
+{
+  "clientId": "",
+  "rich_presence": {
+    "details": {
+      "text": "",
+      "show": true
+    },
+    "state": {
+      "text": "",
+      "show": true
+    },
+    "assets": {
+      "largeImage": {
+        "text": "",
+        "key": "",
+        "show": true
+      },
+      "smallImage": {
+        "text": "",
+        "key": "",
+        "show": true
+      }
+    },
+    "buttons": {
+      "primary": {
+        "labelText": "",
+        "redirectUrl": "",
+        "show": true
+      },
+      "secondary": {
+        "labelText": "",
+        "redirectUrl": "",
+        "show": true
+      }
+    },
+    "timestamps": {
+      "mode": "",
+      "autoStart": true,
+      "startTimestamp": 1,
+      "endTimestamp": 1703350446,
+      "show": true
+    },
+    "party": {
+      "id": "",
+      "size": {
+        "currentSize": 1,
+        "maxSize": 2
+      },
+      "show": true
+    }
+  }
+}
