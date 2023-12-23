@@ -17,7 +17,7 @@
             - [Timestamp Modes](#timestamp-modes)
             - [Additional Timestamp Settings](#additional-timestamp-settings)
         - [Finding Your Discord Application's Client ID](#finding-your-discord-applications-client-id)
-        - [Element Positioning in Discord Rich Presence](#element-positioning-in-discord-rich-presence)
+    - [Element Positioning in Discord Rich Presence](#element-positioning-in-discord-rich-presence)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -206,7 +206,7 @@ Once you have your `clientId`, insert it into the `clientId` field in your `conf
 
 --- 
 
-#### Element Positioning in Discord Rich Presence
+### Element Positioning in Discord Rich Presence
 
 The following image illustrates where each element is displayed in the Discord Rich Presence interface:
 
