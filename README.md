@@ -2,7 +2,7 @@
 
 > A simple Discord Rich Presence application that allows you to customize your Discord presence.
 
-![Project Image](assets/project-banner.png)
+![Banner](assets/project-banner.png)
 
 ## Table of Contents
 
